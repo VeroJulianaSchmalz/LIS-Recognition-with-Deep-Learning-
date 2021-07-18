@@ -1,5 +1,8 @@
 # Real-time LIS recognition with Deep Learning and OpenCV 
 
+![Demonstration_GIF](![image](https://user-images.githubusercontent.com/72256200/126074032-6796d01e-9e49-4db2-9856-b2128c32feb8.png)
+)
+
 
 This repo contains the code for training and evaluating the models used in the paper "Real-time Italian Sign Language Recognition
 with Deep Learning" (2021). Its aim is the application of deep learning and fine-tuning techniques to build an automatic recognition system for the Italian Sign Language (LIS). More specifically, the main goal is a real-time image recognition system capable of accurately identifying the letters of the alphabet of the LIS provided by a user in a Human Computer Interaction (HCI) framework by means of the Python’s Open Source Computer Vision library and Keras’ VGG19, a convolutional network architecture applied for large-scale image and video recognition. In addition to testing the performance of different classification architectures with slightly modified parameters, this work constitutes a novel step towards the application of automatic image recognition techniques with the recently acknowledged LIS and the only LIS alphabet open-source dataset (https://drive.google.com/file/d/1AFcb2VnGCn2OslIlB6kFpVDAS3PMNqvs/view). 
