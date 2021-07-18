@@ -14,9 +14,9 @@ Tensorflow, keras, numpy, opencv, pandas, matplotlib
 ## Training and evaluation
 First, change the ```DATASET_FOLDER``` and/or ```train\valid\test_data_dir``` to point to where the sign language image Data data and/or LIS data are stored on your computer/Drive.
 
-```models\ CNN_LIS```:_ To train the CNN model on a dataset 
+```models\CNN_LIS```:_ To train the CNN model on a dataset 
 
-```models\ CNN_LIS```:_ To fine-tune the pre-trained VGG19 deep neural model on a dataset 
+```models\deep_VGG19```:_ To fine-tune the pre-trained VGG19 deep neural model on a dataset 
 
 ## Real-time HCI testing 
 First, change the ```model_path``` to point to where the pre-trained model is stored on your computer/Drive.
