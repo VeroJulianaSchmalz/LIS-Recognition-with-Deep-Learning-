@@ -148,6 +148,8 @@ history = model.fit_generator(
     validation_data=validation_generator,
     validation_steps=nb_validation_samples // batch_size)
 
+model.save("file_to_folder/store/model.h5")
+
 
 ### Plot the curves for accuracy and loss 
 
