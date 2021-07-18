@@ -138,6 +138,9 @@ history= model.fit_generator(train_generator,
                              callbacks=[reduce_lr, checkpointer], 
                              epochs=epochs)
 
+### Store the trained model 
+model.save("file_to_folder/store/model.h5")
+
 ### Plot the accuracy and loss curves 
 
 plt.plot(history.history['acc'])
