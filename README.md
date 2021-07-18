@@ -1,7 +1,7 @@
 # Real-time LIS recognition with Deep Learning and OpenCV 
 
-![Demonstration_GIF](![image](https://user-images.githubusercontent.com/72256200/126074032-6796d01e-9e49-4db2-9856-b2128c32feb8.png)
-)
+![LIS_demonstration](https://user-images.githubusercontent.com/72256200/126074139-29a2b1fa-e66c-4ace-9664-15235a1b2ebd.gif)
+
 
 
 This repo contains the code for training and evaluating the models used in the paper "Real-time Italian Sign Language Recognition
